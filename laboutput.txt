@@ -1,10 +1,7 @@
 test_0 (__main__.lab1a.test_0)
 [Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
 test_a (__main__.lab1a.test_a)
-[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... /usr/lib/python3.12/subprocess.py:822: ResourceWarning: unclosed file <_io.TextIOWrapper name=3 encoding='UTF-8'>
-  _cleanup()
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... ok
 test_a1 (__main__.lab1a.test_a1)
 [Lab 1] - [Investigation 3] - [Part 2] - printing - Test for correct shebang line: ./lab1a.py ... ok
 test_b (__main__.lab1a.test_b)
@@ -35,7 +32,7 @@ test_b (__main__.lab1d.test_b)
 [Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
 
 ----------------------------------------------------------------------
-Ran 16 tests in 0.085s
+Ran 16 tests in 0.096s
 
 OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
@@ -47,5 +44,5 @@ OPS445 Lab Report - System Information for running ./CheckLab1.py
     Python version:  3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/sadebola/ops445/lab1
-    Start at: Tue May 13 15:15:21 2025
+    Start at: Fri May 16 16:21:37 2025
 =================================================================
